@@ -1,0 +1,13 @@
+.beside {
+  width: 700px;
+  height: 1000px;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mine {
+  width: 500px;
+  height: 700px;
+}
